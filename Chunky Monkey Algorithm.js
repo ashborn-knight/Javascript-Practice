@@ -1,3 +1,4 @@
+#This is a javacript pratcice of chunky moneky algorithm
 function chunkArrayInGroups(arr, num){
   
 const result = [];
