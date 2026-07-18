@@ -1,3 +1,5 @@
+// festival  crowd simulator
+
 const morningGates = [
   { id: "North", capacity: 5, queue: [3, 6, 2, 4] },
   { id: "East", capacity: 3, queue: [2, 4, 3, 5] },
